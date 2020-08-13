@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevynrocha" alt="kevynrocha" /> </p>
 
-- 🌱 Atualmente estou aprendendo **TypeScript, Redux, CleanCode...**
+- 🌱 Atualmente estou aprendendo **TypeScript, Redux, CleanCode, TDD...**
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
